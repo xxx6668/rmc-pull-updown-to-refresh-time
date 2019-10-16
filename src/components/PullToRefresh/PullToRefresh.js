@@ -401,7 +401,7 @@ export default class PullToRefresh extends Component {
               this.stateInit();
             },
           );
-        }, 3000);
+        }, 1000);
       });
   };
 
